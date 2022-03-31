@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Ignacio Brenes</h1>
 <h3 align="center">A passionate Computer Science student from Costa Rica 🇨🇷</h3>
 
-- 📫 How to reach me **brenesignacio95@gmail.com**
+- 📫 How to reach me? **brenesignacio95@gmail.com**
 
 - 💭 Ask me about: **Java, Javascript, HTML, SQL, Python**
 
