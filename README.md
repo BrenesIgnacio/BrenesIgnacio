@@ -1,6 +1,6 @@
 # Ignacio Brenes
 
-Computer Science graduate (ITCR) specializing in Oracle database engineering, Oracle Forms, and Oracle Reports.
+Computer Science (ITCR) specializing in Oracle database engineering, Oracle Forms, and Oracle Reports.
 
 I work on enterprise systems built on the Oracle stack, PL/SQL development, legacy application modernization, and report/forms maintenance for production environments.
 
