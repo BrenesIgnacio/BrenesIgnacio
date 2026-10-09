@@ -8,7 +8,7 @@ I work on enterprise systems built on the Oracle stack, PL/SQL development, lega
 
 ## Focus
 
-- Oracle Database / PL/SQL development and tuning
+- Oracle Database / PL/SQL development and maintenance
 - Oracle Forms & Reports (development, migration, maintenance)
 - Enterprise application support and legacy system modernization
 - Project management for technical teams
